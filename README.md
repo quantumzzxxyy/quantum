@@ -1,3 +1,3 @@
-# quantum
+# Quantum
 **Quantum Algorithms**
 # ABM
