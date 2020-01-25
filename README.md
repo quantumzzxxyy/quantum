@@ -1,2 +1,2 @@
 # quantum
-Quantum Algorithms
+**Quantum Algorithms**
