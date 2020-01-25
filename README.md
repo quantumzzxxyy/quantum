@@ -21,7 +21,7 @@ The example here is like the El Farol problem in that investors rely on global i
 Finally, what is an agent? See reference below. Minimum properties: autonomy, reactivity, proactivity, sociability.<br>
 <br>**HOW IT WORKS**<br><br>
 Agents are coloured Pink, Green, Red and Blue. Pink agents do not participate in trading; Green, Red and Blue agents are trading participants - all agents are selected randomly. For a particular agent type their colour or selection changes tick by tick (tick time is the cycle time of the model).
-The user selects the population of agent Investors ( population-of-investorsx ). The system randomly selects a subset (coloured blue person) - these agents are active Investors and will now participate in trading in terms of interacting with Brokers (red box).<br>
+The user selects the population of agent Investors ( population-of-investorsx ). The system randomly selects a subset (coloured blue person) - these agents are active Investors and will now participate in trading in terms of interacting with Brokers (red box).<br><br>
 The blue Investor agents have a trading charge/fees threshold (called investor-threshold) if the charges or fees exceed this threshold the program STOPS! Investors randomly connect to Broker agents (red), multiple Investors can connect to the same Broker - the more agents connected to a broker indicates a higher demand for that
 Broker. Broker fees are related to Broker demand. Brokers randomly connect to Market Maker agents (green triangles). Market Maker demand depends on the number of Broker connections to a Market Maker.<br>
 The bid-ask spread is weighted by Market Maker demand and broker commission. This means that there is a feedback mechanism as follows.<br><br>
