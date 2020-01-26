@@ -11,6 +11,14 @@ https://www.youtube.com/watch?v=Usu9xZfabPM
 
 
 # ABM
+<br>
+<br>
+Download NetLogo to run the ABM model
+<br>
+https://ccl.northwestern.edu/netlogo/index.shtml
+<br>
+<br>
+
 **RELATED MODELS**\
 El Farol - competing for a resource, the bar on entertainment night can be considered a resource and optimising size.<br>
 <br>**CREDITS AND REFERENCES**\
