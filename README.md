@@ -1,5 +1,5 @@
 # Quantum
-**Quantum Algorithms**
+**Quantum Physics**
 <br>
 <br>
 https://www.youtube.com/watch?v=Usu9xZfabPM
