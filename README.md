@@ -7,12 +7,12 @@ https://www.youtube.com/watch?v=Usu9xZfabPM
 https://www.youtube.com/embed/zNzzGgr2mhk?start=1&end=326
 <br>
 # ABM
-Download and install NetLogo to run the ABM model located above.
+Download and install NetLogo to run the ABM model.
 <br>
 https://ccl.northwestern.edu/netlogo/index.shtml
 <br>
 <br>
-Install ***ABM Economic Activity.nlogo***	and then follow the appllication instructions tab.
+Install from GitHub the application ***ABM Economic Activity.nlogo***	and then follow the appllication instructions tab.
 
 **RELATED MODELS**\
 El Farol - competing for a resource, the bar on entertainment night can be considered a resource and optimising size.<br>
