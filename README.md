@@ -8,7 +8,6 @@ https://www.youtube.com/watch?v=Usu9xZfabPM
 https://www.youtube.com/watch?v=Usu9xZfabPM
 <br>
 # ABM
-<br>
 Download NetLogo to run the ABM model
 <br>
 https://ccl.northwestern.edu/netlogo/index.shtml
