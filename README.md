@@ -4,6 +4,8 @@
 <br>
 https://www.youtube.com/watch?v=Usu9xZfabPM
 <br>
+https://www.youtube.com/embed/zNzzGgr2mhk?start=1&end=326
+<br>
 # ABM
 Download NetLogo to run the ABM model
 <br>
