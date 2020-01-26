@@ -16,7 +16,7 @@ https://ccl.northwestern.edu/netlogo/index.shtml
 **RELATED MODELS**\
 El Farol - competing for a resource, the bar on entertainment night can be considered a resource and optimising size.<br>
 <br>**CREDITS AND REFERENCES**\
-Financial Market Complexity Neil. F. Johnson et al. Oxford Finance <br><br> **Read more**: <br>Bid-Ask Spread<br> http://www.investopedia.com/terms/b/bid-askspread.asp#ixzz4oQa8NCvE <br>**Read more**:<br> Bid-Ask Spread<br> http://www.investopedia.com/terms/b/bid-askspread.asp#ixzz4pMnYr05O From Ferber J., Les systemes multi-agents Informatique, Intelligence Artificielle, Intereditions, 1995.
+Financial Market Complexity Neil. F. Johnson et al. Oxford Finance (This is a brilliant book on financial complexity)<br><br> **Read more**: <br>Bid-Ask Spread<br> http://www.investopedia.com/terms/b/bid-askspread.asp#ixzz4oQa8NCvE <br>**Read more**:<br> Bid-Ask Spread<br> http://www.investopedia.com/terms/b/bid-askspread.asp#ixzz4pMnYr05O From Ferber J., Les systemes multi-agents Informatique, Intelligence Artificielle, Intereditions, 1995.
 
 <br><br>
 **WHAT IS IT?**<br><br>
