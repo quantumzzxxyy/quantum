@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=Usu9xZfabPM
 https://www.youtube.com/embed/zNzzGgr2mhk?start=1&end=326
 <br>
 # ABM (Agent Based Modelling)
+https://en.wikipedia.org/wiki/NetLogo
+<br>
 Download and install NetLogo to run the ABM model.
 <br>
 https://ccl.northwestern.edu/netlogo/index.shtml
