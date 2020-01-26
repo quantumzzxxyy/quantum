@@ -1,5 +1,15 @@
 # Quantum
 **Quantum Algorithms**
+<br>
+<br>
+https://www.youtube.com/watch?v=Usu9xZfabPM
+<br>
+<br>
+https://www.youtube.com/watch?v=Usu9xZfabPM
+<br>
+
+
+
 # ABM
 **RELATED MODELS**\
 El Farol - competing for a resource, the bar on entertainment night can be considered a resource and optimising size.<br>
