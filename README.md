@@ -19,6 +19,7 @@ El Farol - competing for a resource, the bar on entertainment night can be consi
 <br>**CREDITS AND REFERENCES**\
 Financial Market Complexity Neil. F. Johnson et al. Oxford Finance (This is a brilliant book on financial complexity)<br><br> **Read more**: <br>Bid-Ask Spread<br> http://www.investopedia.com/terms/b/bid-askspread.asp#ixzz4oQa8NCvE <br> http://www.investopedia.com/terms/b/bid-askspread.asp#ixzz4pMnYr05O From Ferber J., Les systemes multi-agents Informatique, Intelligence Artificielle, Intereditions, 1995.
 <br>
+<br>
 **WHAT IS IT?**<br><br>
 This is a model of Investors interacting with Brokers and Brokers interacting with Market Makers. This is a study of the relationship of Brokers and Market Makers behaviour within this ecosystem - in terms of how Investors react to Market Maker bid ask spread, defined later and broker fees. We are trying to understand how Market Maker behavior influences investors’ appetite to trade - Market Maker behavior means the fees a market maker charges a broker to trade and notwithstanding the fees or commission a Broker charges an Investor. There are a number of influencing factors namely, number of brokers requesting trading activity via a Market Maker. This could be a one-to-one or many-to-one relationship.<br><br>
 **THE QUESTION WHY?**
