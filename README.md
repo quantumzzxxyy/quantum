@@ -33,7 +33,7 @@ The bid ask spread features significantly in this model and an understanding of 
 A bid-ask spread is the amount by which the ask price exceeds the bid price for an asset in the market.
 The bid-ask spread is essentially the difference between the highest price that a buyer is willing to pay for an asset and the lowest price that a seller is willing to accept to sell it.<br><br>
 The bid-ask spread is a reflection of the supply and demand for a particular asset. The bids represent the demand, and the asks represent the supply for the asset. The depth of the bids and the asks can have a significant impact on the bid-ask spread, making it widen significantly if one outweighs the other or if both are not robust. Market makers and traders make money by exploiting the bid-ask spread and the depth of bids and asks to net the spread difference as a profit.
-The example here is like the El Farol problem in that investors rely on global information - for exanple average market maker threshold and to some extent broker fees or commission.<br>
+The example here is like the El Farol problem in that investors rely on global information - for exanple average market maker threshold and to some extent broker fees or commission.<br><br>
 Finally, what is an agent? See reference below. Minimum properties: autonomy, reactivity, proactivity, sociability.<br>
 <br>**HOW IT WORKS**<br><br>
 Agents are coloured Pink, Green, Red and Blue. Pink agents do not participate in trading; Green, Red and Blue agents are trading participants - all agents are selected randomly. For a particular agent type their colour or selection changes tick by tick (tick time is the cycle time of the model).
