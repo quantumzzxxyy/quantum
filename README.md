@@ -1,4 +1,4 @@
-# Quantum
+# Quantum Computing
 **Quantum Physics**
 <br>
 <br>
